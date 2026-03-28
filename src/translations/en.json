@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "client_hub": "Client Hub",
+    "contact": "Contact",
+    "appointments": "Portal"
+  },
+  "hero": {
+    "badge": "10+ Years of Trusted Audit Expertise",
+    "title_part1": "Precision in Tax.",
+    "title_part2": "Excellence in Audit.",
+    "subtitle": "Trusted by 100+ businesses across Gandaki Province. We handle the complexity, so you can focus on growth.",
+    "cta_consult": "Get Started",
+    "cta_services": "Our Services"
+  },
+  "common": {
+    "office_hours": "Sun–Fri, 10am–5pm",
+    "copyright": "© 2024 Fewa Tax Consultancy. All rights reserved."
+  }
+}
